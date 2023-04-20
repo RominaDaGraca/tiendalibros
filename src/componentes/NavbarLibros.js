@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 function NavBarLibros(props) {
 
   useEffect(() => {
-    console.log("use effect NavBarLibros");
+    //console.log("use effect NavBarLibros");
   })
 
   return (
